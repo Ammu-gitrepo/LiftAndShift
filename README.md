@@ -25,3 +25,7 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+
+
+Credits - Imran Teli@DevOps Beginners to Advanced | Decoding DevOps with Projects udemy course
+
